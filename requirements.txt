@@ -1,0 +1,18 @@
+requests
+cloudscraper
+bs4
+reportlab
+pillow
+loguru
+pyrofork
+tgcrypto-pyrofork
+pillow-avif-plugin # for avif files
+pillow-heif # for heif files
+pymongo
+PyPDF2
+psutil
+flask
+gunicorn
+cairosvg
+pytz
+uvloop==0.21.0
